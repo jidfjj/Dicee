@@ -41,5 +41,7 @@ class ViewController: UIViewController {
         
         diceImageView1.image = UIImage(named: diceArr[index1])
         diceImageView2.image = UIImage(named: diceArr[index2])
+        
+        //commit test
     }
 }
